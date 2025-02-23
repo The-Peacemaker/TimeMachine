@@ -73,6 +73,6 @@
 All tools are used under their respective open-source licenses.
 
 ## **Author**
-**Moded By:** Benedict Chacko Mathew.
+**Moded By:** Benedict Chacko Mathew
 
 **Inspired by:** [AnonKryptiQuz](https://AnonKryptiQuz.github.io/)
