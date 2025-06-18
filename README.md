@@ -1,3 +1,5 @@
+![INFORMATION DISCLOSURE SCANNER](https://github.com/The-Peacemaker/TimeMachine/blob/main/image.png?raw=true)
+
 # **TimeMachine: Information Disclosure Scanner Using Wayback Machine**
 
 **TimeMachine** is a specialized tool designed to automate the process of finding potential information disclosure vulnerabilities in web applications by leveraging the Wayback Machine’s archive. The tool filters URLs for sensitive file extensions and fetches status codes to help identify exposed or sensitive data.
